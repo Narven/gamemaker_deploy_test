@@ -1,0 +1,26 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"ps_debris_fg",
+  "backdropHeight":2160,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":3840,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"Emitter_1","additiveBlend":false,"directionIncrease":0.0,"directionMax":250.0,"directionMin":320.0,"directionWiggle":6.0,"distribution":0,"editorColour":1090519039,"editorDrawShape":true,"emitCount":-12,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":1712173,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":30.0,"lifetimeMin":120.0,"linkedEmitter":null,"locked":false,"midColour":4280625195,"mode":0,"name":"Emitter_1","orientationIncrease":-1.0,"orientationMax":360.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":2160.0,"regionW":3840.0,"regionX":0.0,"regionY":-5.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":0,"sizeIncrease":0.0,"sizeMax":0.25,"sizeMin":0.1,"sizeWiggle":0.0,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":6.0,"speedMin":5.0,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":{"name":"spr_vfx_debris_3","path":"sprites/spr_vfx_debris_3/spr_vfx_debris_3.yy",},"spriteRandom":false,"spriteStretch":true,"startColour":1712173,"texture":-1,},
+    {"$GMPSEmitter":"","%Name":"Emitter","additiveBlend":false,"directionIncrease":0.0,"directionMax":250.0,"directionMin":320.0,"directionWiggle":7.0,"distribution":0,"editorColour":1090519039,"editorDrawShape":true,"emitCount":-6,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":1712173,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":30.0,"lifetimeMin":120.0,"linkedEmitter":null,"locked":false,"midColour":4280362283,"mode":0,"name":"Emitter","orientationIncrease":-1.6,"orientationMax":360.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":2160.0,"regionW":3840.0,"regionX":0.0,"regionY":-5.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":1.0,"scaleY":1.0,"shape":0,"sizeIncrease":0.0,"sizeMax":0.25,"sizeMin":0.1,"sizeWiggle":0.0,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":6.0,"speedMin":4.0,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":{"name":"spr_vfx_debris_1","path":"sprites/spr_vfx_debris_1/spr_vfx_debris_1.yy",},"spriteRandom":false,"spriteStretch":true,"startColour":1712173,"texture":-1,},
+  ],
+  "name":"ps_debris_fg",
+  "parent":{
+    "name":"Particle Systems",
+    "path":"folders/Particle Systems.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}

@@ -1,0 +1,2 @@
+// Lerp the aesthetic progress level toward the real progress level
+fake_wave_progress = lerp(fake_wave_progress, obj_wave_manager.enemies_destroyed_this_wave / obj_wave_manager.curr_wave.enemies_to_progress, 0.5);

@@ -1,0 +1,244 @@
+skeleton.png
+size:2171,2169
+filter:Linear,Linear
+pma:true
+0 Arm Lower Back Right
+bounds:536,1642,236,192
+0 Arm Lower Front Right
+bounds:1175,1803,206,157
+0 Belt
+bounds:1652,2077,502,90
+0 Cap
+bounds:677,289,315,314
+offsets:0,0,316,315
+0 Cap Peak
+bounds:602,1167,296,224
+offsets:0,0,297,224
+0 Foot Right
+bounds:344,1173,285,256
+rotate:90
+0 Gun
+bounds:1513,1091,224,361
+rotate:90
+0 Gun Scope
+bounds:2,2040,107,95
+offsets:2,0,110,95
+0 Hair
+bounds:1383,1781,205,158
+0 Hand Right
+bounds:912,2094,122,73
+0 Headphones
+bounds:994,257,361,331
+0 Headphones 2
+bounds:233,1989,121,234
+rotate:90
+0 Leg Knee Right
+bounds:2,1237,221,340
+rotate:90
+0 Leg Lower Left
+bounds:1741,494,266,377
+rotate:90
+0 Leg Lower Right
+bounds:2,683,248,507
+rotate:90
+0 Leg Upper Right Pocket
+bounds:1011,1592,209,231
+rotate:90
+0 Neck
+bounds:900,1125,316,239
+0 Pouch 1
+bounds:2,1662,188,264
+rotate:90
+0 Pouch 2
+bounds:1819,1740,184,258
+rotate:90
+0 Pouch 3
+bounds:223,1852,135,222
+rotate:90
+0 Scarf 1 Back
+bounds:869,1962,130,700
+rotate:90
+0 Scarf 3
+bounds:2,1460,180,626
+rotate:90
+0 Scarf Strand 1
+bounds:1036,2094,73,439
+rotate:90
+0 Scarf Strand 2
+bounds:1560,1539,519,199
+0 Scarf Strand 3
+bounds:1571,1941,134,379
+rotate:90
+Arm Lower Left
+bounds:2,412,352,269
+Arm Lower Right
+bounds:1117,854,499,235
+Arm Upper Left
+bounds:511,605,255,482
+offsets:1,0,256,482
+rotate:90
+Arm Upper Right Shadow
+bounds:740,862,261,375
+rotate:90
+Back
+bounds:1854,72,315,420
+Belt
+bounds:447,1836,367,137
+Cuff Left
+bounds:731,1975,132,136
+offsets:0,0,133,136
+rotate:90
+Cuff Right
+bounds:1952,1926,149,160
+offsets:0,0,150,160
+rotate:90
+Eyes Blink Left
+bounds:2,2137,70,30
+Eyes Blink Right
+bounds:240,2120,85,47
+Eyes Pupil
+bounds:203,2132,35,35
+Eyes White Left
+bounds:74,2137,61,30
+Eyes White Right
+bounds:327,2118,85,49
+offsets:1,1,86,50
+Finger Right
+bounds:2,1883,219,134
+Foot Left
+bounds:1357,180,495,312
+Foot Right
+bounds:297,933,232,441
+rotate:90
+Gun Barrel Back
+bounds:1366,497,373,263
+Gun Cartridge
+bounds:1911,1273,236,264
+Gun Handle
+bounds:1618,762,490,236
+Gun Scope
+bounds:1545,1317,364,220
+Hair
+bounds:1218,1098,248,293
+rotate:90
+Hand Back Left
+bounds:111,2019,120,111
+offsets:0,0,121,111
+Hand Left
+bounds:1590,1761,227,178
+Hand Right
+bounds:963,1366,257,224
+Hand Right Reload
+bounds:1876,1000,271,292
+rotate:90
+Head Cap
+bounds:995,590,369,262
+Head Cap Back
+bounds:414,2112,126,55
+Head Cap Mid
+bounds:816,1807,357,153
+offsets:0,3,357,156
+Head Glasses
+bounds:1244,1569,314,210
+Head Headphones Back
+bounds:630,2109,58,280
+rotate:90
+Head Mic
+bounds:1477,2094,73,173
+rotate:90
+Head Mouth
+bounds:137,2137,64,30
+Head Nose
+bounds:542,2111,56,86
+rotate:90
+Leg Lower Left
+bounds:2,2,408,327
+rotate:90
+Neck
+bounds:356,321,282,319
+rotate:90
+Neck Bottom
+bounds:1222,1348,321,219
+Pouch 1
+bounds:268,1646,188,266
+rotate:90
+Pouch 2
+bounds:469,1979,128,260
+rotate:90
+Pouch 3
+bounds:774,1610,195,235
+rotate:90
+Scarf Back
+bounds:2,961,293,274
+Top Light
+bounds:630,1393,215,331
+rotate:90
+
+skeleton_2.png
+size:2049,2152
+filter:Linear,Linear
+pma:true
+0 Arm Upper Right
+bounds:2,193,740,470
+0 Foot Left
+bounds:998,1457,361,496
+rotate:90
+0 Leg Upper Right
+bounds:2,1156,713,371
+0 Leg Upper Right Light
+bounds:1589,1801,458,349
+0 Scarf 2
+bounds:2,1888,262,1080
+rotate:90
+Arm Upper Right
+bounds:1375,2,555,629
+rotate:90
+Arm Upper Right 2
+bounds:744,2,555,629
+rotate:90
+Head Face
+bounds:1084,1820,330,503
+rotate:90
+Head Headphones
+bounds:1496,1427,374,372
+Leg Knee Left
+bounds:616,1529,357,380
+offsets:16,0,373,406
+rotate:90
+Leg Lower Right
+bounds:2,1536,350,612
+rotate:90
+Leg Upper Left
+bounds:2,665,851,409
+Leg Upper Right
+bounds:855,559,465,920
+rotate:90
+Scarf Front
+bounds:1246,1026,497,399
+Top Strap
+bounds:717,1076,379,527
+rotate:90
+
+skeleton_3.png
+size:2144,1521
+filter:Linear,Linear
+pma:true
+0 Leg Upper Left
+bounds:2,272,648,771
+rotate:90
+0 Scarf 1
+bounds:2,960,688,559
+0 Scarf 1 Front
+bounds:775,2,734,918
+0 Vest
+bounds:1542,727,600,792
+Top
+bounds:692,922,597,848
+rotate:90
+
+skeleton_4.png
+size:1572,937
+filter:Linear,Linear
+pma:true
+Gun
+bounds:2,2,1568,933
